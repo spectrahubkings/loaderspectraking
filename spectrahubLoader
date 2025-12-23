@@ -1,5 +1,5 @@
 if game.PlaceId == 142823291 then
-loadstring(game:HttpGet("https://waterxjuice.neocities.org/SpectraMM2.txT"))()
+
 else
 warn("Game Not Supported")
 end
